@@ -13,7 +13,7 @@ Sum all pairs numbers in an array and find if the results are equals to a given 
 Download files, open index.html.
 
 ### Youtube guide
-[Youtube video link]()
+[Youtube video link](https://youtu.be/JGutFwR4X_M)
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
